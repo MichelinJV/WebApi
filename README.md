@@ -1,2 +1,2 @@
 # WebApi
-WebAPI de Lista de jogos usando .Net core + VS Code + MySql
+Catálogo de jogos usando .Net core,  VS Code e MySql
